@@ -431,6 +431,10 @@ footer {
         width: 100%;
     }
 
+    .hebergements-cards a {
+        flex-basis: 28%;
+    }
+
     .hebergements-cards .card-title {
         font-size: 14px;
         padding-top: 4px;
