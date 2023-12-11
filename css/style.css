@@ -73,6 +73,10 @@ nav {
     font-size: 1rem;
 }
 
+.lien {
+    margin-bottom: 40px;
+}
+
 .nav-lien {
     margin-left: 70px;
     padding-top: 17px;
@@ -211,6 +215,7 @@ h1 {
 
 .info i {
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 
